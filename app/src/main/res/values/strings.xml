@@ -10,6 +10,27 @@
     <string name="player_2">Player 2</string>
     <string name="name">Name</string>
     <string name="new_match">New Match</string>
+    <string name="sets">Sets</string>
+    <string name="games_per_set">Games p/ Set</string>
+    <string name="create_new_match">Create New Match</string>
+    <string name="exit">Exit</string>
+    <string name="start_point">Start Point</string>
 
 
+
+    <string-array name="sets_per_match">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="games_per_set">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
 </resources>
