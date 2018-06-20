@@ -20,7 +20,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".NewMatchSetupActivity" />
-        <activity android:name=".MatchMainPageActivity"></activity>
+        <activity android:name=".MatchMainPageActivity" />
+        <activity android:name=".ServeOutcomeActivity"></activity>
     </application>
 
 </manifest>
