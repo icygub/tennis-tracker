@@ -20,6 +20,14 @@
     <string name="ace">Ace</string>
     <string name="fault">Fault</string>
     <string name="let">Let</string>
+    <string name="won_point">Won Point</string>
+    <string name="lost_point">Lost Point</string>
+    <string name="winner">Winner</string>
+    <string name="forced_error">Forced Error</string>
+    <string name="unforced_error">Unforced Error</string>
+    <string name="forehand">Forehand</string>
+    <string name="backhand">Backhand</string>
+
 
     <string-array name="sets_per_match">
         <item>1</item>
