@@ -21,7 +21,8 @@
         </activity>
         <activity android:name=".NewMatchSetupActivity" />
         <activity android:name=".MatchMainPageActivity" />
-        <activity android:name=".ServeOutcomeActivity"></activity>
+        <activity android:name=".ServeOutcomeActivity" />
+        <activity android:name=".PointOutcomeActivity"></activity>
     </application>
 
 </manifest>

@@ -15,7 +15,7 @@
     <string name="create_new_match">Create New Match</string>
     <string name="exit">Exit</string>
     <string name="start_point">Start Point</string>
-    <string name="serve">Serve</string>
+    <string name="serve">Serve Outcome</string>
     <string name="continue_point">Continue</string>
     <string name="ace">Ace</string>
     <string name="fault">Fault</string>
