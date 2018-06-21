@@ -27,6 +27,7 @@
     <string name="unforced_error">Unforced Error</string>
     <string name="forehand">Forehand</string>
     <string name="backhand">Backhand</string>
+    <string name="finish_point">Finish Point</string>
 
 
     <string-array name="sets_per_match">
