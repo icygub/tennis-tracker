@@ -28,6 +28,9 @@
     <string name="forehand">Forehand</string>
     <string name="backhand">Backhand</string>
     <string name="finish_point">Finish Point</string>
+    <string name="net">Net</string>
+    <string name="no_mans_land">No Man\'s Land</string>
+    <string name="baseline">Baseline</string>
 
 
     <string-array name="sets_per_match">
